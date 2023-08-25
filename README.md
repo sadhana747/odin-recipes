@@ -1,3 +1,3 @@
 # odin-recipes
-check it out here : 
+Live View : 
 https://sadhana747.github.io/odin-recipes/
